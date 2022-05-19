@@ -8,8 +8,8 @@ function MainView() {
 
     <div>
       <div className="navigation">
-        <button onClick={()=>{setCurrentView("Home")}}>Home</button>
-        <button onClick={()=>{setCurrentView("About")}}>About</button>
+        <button className="navButton" onClick={()=>{setCurrentView("Home")}}>Home</button>
+        <button className="navButton" onClick={()=>{setCurrentView("About")}}>About</button>
       </div>
         <ViewSelector currentView={currentView}/>
     </div>
