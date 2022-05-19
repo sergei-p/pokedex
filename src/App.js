@@ -9,9 +9,9 @@ function App() {
       <main>
         <MainView />
       </main>
-      <footer>
+      {/* <footer>
         Pokedex Application
-      </footer>
+      </footer> */}
     </div>
   );
 }
