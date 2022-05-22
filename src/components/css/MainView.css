@@ -1,0 +1,17 @@
+.navigation {
+  display: flex;
+  justify-content: center;  
+}
+
+.navButton {
+  margin-left: 6%;
+  margin-right: 6%;
+  font-size: 1.25rem;
+
+  background: none!important;
+  border: none;
+  padding: 0!important;
+  text-decoration: underline;
+  cursor: pointer;
+  color: #FF0000;
+}
