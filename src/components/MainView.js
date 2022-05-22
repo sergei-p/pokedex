@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import ViewSelector from "./ViewSelector";
+import "./css/MainView.css"
 
 function MainView() {
   const [currentView, setCurrentView] = useState("Home")
