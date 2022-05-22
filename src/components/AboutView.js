@@ -1,4 +1,4 @@
-import "./css/AboutView.css"
+import "./css/AboutView.css";
 
 function AboutView() {
   return (

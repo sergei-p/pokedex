@@ -1,0 +1,11 @@
+.searchBar {
+    /* width: 15em;
+  height: 2.4em; */
+  background-color: #ffffff;
+  border: 1px solid 	#b3b3b3;
+  outline: none;
+  padding: .5em 1em;
+  border-radius: .2em;
+  /* inputs have slightly smaller font size than the root font size, inherit allows us to inherit the root font size */
+  font-size: inherit;
+}
