@@ -1,3 +1,5 @@
+import "./css/AboutView.css"
+
 function AboutView() {
   return (
     <section className="aboutView">
